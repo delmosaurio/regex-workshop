@@ -1,6 +1,6 @@
 # Regex Workshop
 
-Is a desktop tool to make regular expressions a test its.
+A desktop tool to make and test regular expressions.
 
 ## license 
 
